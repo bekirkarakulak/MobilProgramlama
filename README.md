@@ -20,7 +20,7 @@ Diet uygulaması [Node.js](https://nodejs.org/) v4+ gerektirir.
 Konsol ekranını açın
 
 ```sh
+$ cd diet
 $ npm install -g ionic
 $ npm install @angular/cli
-$ cd diet
 $ ionic serve
